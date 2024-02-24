@@ -1,5 +1,5 @@
 body {
-  background: url("images/long_image.jpg") no-repeat center center;
+  background: url("../images/long_image.jpg") no-repeat center center;
   background-position-x: -5000px; 
   background-position-y: 0px; 
   height: 100%;
