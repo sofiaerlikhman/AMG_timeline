@@ -1,0 +1,27 @@
+body {
+  background: url("../images/long_image.jpg") no-repeat center center;
+  background-position-x: -5000px; 
+  background-position-y: 0px; 
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+canvas {
+  width: 10%;
+  height: 10%;
+}
+
+video {
+  display: none;
+}
+
+#icon-cd {
+  margin-left: 1rem;
+}
+
+#icon-video {
+  margin-left: 0.5rem;
+}
